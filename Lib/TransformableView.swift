@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 
+@objc(TransformableView)
 public protocol TransformableView {
     
     /// The view for detecting gestures
